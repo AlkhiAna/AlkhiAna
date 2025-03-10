@@ -3,7 +3,7 @@
 <h3>I'm from New York</h3>
 </div>
 
-[![link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nastt.sw?igsh=ZmQwbXYweXYOZTFz)
+[![link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nastt.sw?igsh=ZmQwbXYweXY0ZTFz)
 [![link](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@nwswan?_t=ZM-8uZ4IUjQbm3&_r=1)
 
 
