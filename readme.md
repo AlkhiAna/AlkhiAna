@@ -1,6 +1,6 @@
 <div  id="header" align="center">
-<h1>Hi there, I'm Anastasia</h1>
-<h3>I'm from New York</h3>
+<h1>Hi there, I'm Anastasia💕😘 </h1>
+<h3>I'm from New York✨</h3>
 </div>
 
 
@@ -12,13 +12,19 @@
 
 </div>
 
-![](https://i.pinimg.com/736x/55/86/fc/5586fc88850ed513ce2b53b729a8f914.jpg ) 
+<div align="center">
+  
+![](https://i.pinimg.com/736x/55/86/fc/5586fc88850ed513ce2b53b729a8f914.jpg )
 
-### About me:
+</div>
+
+### About me🥰:
 - I speak English
 - I like to walk
 - I am studying to be a programmer
 - I live in the beautiful city of New York
+- Every day I go for a walk in the park and enjoy the wonderful atmosphere
+
 
 ### 🛠️: Languages and tools:
 <div>
@@ -38,11 +44,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
+<div  align="center">
+  
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
+</div>
 
-![](https://komarev.com/ghpvc/?username=AlkhiAna)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
